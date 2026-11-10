@@ -36,7 +36,7 @@ quadrantChart
 
 | Stakeholder | Influence / interest | Expected benefit | Main concern | Likely resistance |
 |---|---|---|---|---|
-| **Diana, CFO** (sponsor) | High / High | 57% less manual effort; payback in ~7 months | ROI not proven at full volume | Low; turns into doubt if metrics slip |
+| **Diana, CFO** (sponsor) | High / High | 57% less manual effort; payback in about 7 months | ROI not proven at full volume | Low; turns into doubt if metrics slip |
 | **Marcus, Compliance** | High / Medium | Every decision explained and logged | Automation bypassing approval limits | Medium: blocks any limit change without evidence |
 | **Kevin, InfoSec** | High / Low | Governed AI instead of staff pasting invoices into chatbots | Data leaving the account; key misuse | Medium: slow security reviews |
 | **Priya, AP Manager** | Medium / High | Team off overtime; exceptions explained | Being blamed for AI mistakes | Low; she is the champion |
@@ -94,7 +94,7 @@ Measured with Prosci-style change metrics plus product usage data. Day-0 values 
 | **Onboarding** | 45-minute role training; sandbox with sample invoices; floor champion per team; two weeks in shadow mode per team before live use |
 | **Support** | L1 service desk; L2 AP platform team with the runbook; L3 FDE/vendor engineering. Target: Sev 1 response in 15 minutes |
 | **Governance** | Product owner: AP Manager. Technical owner: AI Platform lead. Rule and limit changes need Compliance sign-off; each release passes the accuracy and safety gates |
-| **Funding / pricing logic** | Year 1: CFO-funded from savings (~$313k net/year). From year 2: internal chargeback per invoice processed (~$0.25 covers platform, support, and AI cost), so new teams pay for what they use |
+| **Funding / pricing logic** | Year 1: CFO-funded from savings (about $313k net a year). From year 2: internal chargeback per invoice processed (about $0.25 covers platform, support, and AI cost), so new teams pay for what they use |
 | **Operational risks** | AI gateway outage (falls back to rules; people review); model drift (monthly benchmark); key exposure (15-minute rotation); team B rejection (see the 90-day plan) |
 
 **Roadmap.**
